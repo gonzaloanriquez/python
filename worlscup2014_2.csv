@@ -1,0 +1,33 @@
+team,group,group_pos,cantidad_juegos,juegos_ganados,juegos_empatados,juegos_perdidos,goles_diferencia,puntos,clasificado
+Brazil,A,1,3,2,1,0,5,7,1
+Mexico,A,2,3,2,1,0,3,7,1
+Croatia,A,3,3,1,0,2,0,3,0
+Cameroon,A,4,3,0,0,3,−8,0,0
+Netherlands,B,1,3,3,0,0,7,9,1
+Chile,B,2,3,2,0,1,2,6,1
+Spain,B,3,3,1,0,2,−3,3,0
+Australia,B,4,3,0,0,3,−6,0,0
+Colombia,C,1,3,3,0,0,7,9,1
+Greece,C,2,3,1,1,1,−2,4,1
+Ivory Coast,C,3,3,1,0,2,−1,3,0
+Japan,C,4,3,0,1,2,−4,1,0
+Costa Rica,D,1,3,2,1,0,3,7,1
+Uruguay,D,2,3,2,0,1,0,6,1
+Italy,D,3,3,1,0,2,−1,3,0
+England,D,4,3,0,1,2,−2,1,0
+France,E,1,3,2,1,0,6,7,1
+Switzerland,E,2,3,2,0,1,1,6,1
+Ecuador,E,3,3,1,1,1,0,4,0
+Honduras,E,4,3,0,0,3,−7,0,0
+Argentina,F,1,3,3,0,0,3,9,1
+Nigeria,F,2,3,1,1,1,0,4,1
+Bosnia and Herzegovina,F,3,3,1,0,2,0,3,0
+Iran,F,4,3,0,1,2,−3,1,0
+Germany,G,1,3,2,1,0,5,7,1
+United States,G,2,3,1,1,1,0,4,1
+Portugal,G,3,3,1,1,1,−3,4,0
+Ghana,G,4,3,0,1,2,−2,1,0
+Belgium,H,1,3,3,0,0,3,9,1
+Algeria,H,2,3,1,1,1,1,4,1
+Russia,H,3,3,0,2,1,−1,2,0
+South Korea,H,4,3,0,1,2,−3,1,0
